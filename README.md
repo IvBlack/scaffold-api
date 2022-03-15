@@ -12,6 +12,7 @@ php artisan make:request GameRequest
 php artisan make:middleware ForceJsonResponse
 
 Our result we can see throuth php artisan route:list
+Relevant code changes will be reflected in PR.
 In accomodation witn REST best practice https://habr.com/ru/post/351890/
 
 Thx.
